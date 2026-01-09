@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "double take",
+  "base_artist": "dhruv",
+  "createdAt": "2026-01-09T14:09:03.731778Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Double Take",
+      "artist": "Holly Valance",
+      "has_synced": false,
+      "path": "select/01_Double_Take_Holly_Valance.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "double take",
+      "artist": "Dhruv",
+      "has_synced": true,
+      "path": "select/02_double_take_Dhruv.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "double take",
+      "artist": "dhruv",
+      "has_synced": true,
+      "path": "select/03_double_take_dhruv.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stutter (Double Take Remix -",
+      "artist": "Joe feat. Mystikal)",
+      "has_synced": true,
+      "path": "select/04_Stutter_(Double_Take_Remix_-_Joe_feat._Mystikal).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stutter (Double Take Remix)",
+      "artist": "Joe Feat. Mystikal",
+      "has_synced": false,
+      "path": "select/05_Stutter_(Double_Take_Remix)_Joe_Feat._Mystikal.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Stutter (feat. Mystikal) [Double Take Remix]",
+      "artist": "Joe",
+      "has_synced": true,
+      "path": "select/06_Stutter_(feat._Mystikal)_[Double_Take_Remix]_Joe.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "double take",
+      "artist": "Dhruv",
+      "has_synced": true,
+      "path": "select/07_double_take_Dhruv.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stutter - Double Take Remix",
+      "artist": "Joe",
+      "has_synced": true,
+      "path": "select/08_Stutter_-_Double_Take_Remix_Joe.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Stutter (Double take Remix) (feat. Mystikal)",
+      "artist": "Joe",
+      "has_synced": true,
+      "path": "select/09_Stutter_(Double_take_Remix)_(feat._Mystikal)_Joe.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Double Take",
+      "artist": "Ross Lynch",
+      "has_synced": true,
+      "path": "select/10_Double_Take_Ross_Lynch.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Stutter (Double Take Remix) [feat. Mystikal]",
+      "artist": "Joe",
+      "has_synced": true,
+      "path": "select/11_Stutter_(Double_Take_Remix)_[feat._Mystikal]_Joe.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "dhruv - double take (Official Video)",
+      "artist": "dhruv",
+      "has_synced": true,
+      "path": "select/12_dhruv_-_double_take_(Official_Video)_dhruv.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "double take",
+      "artist": "dhruv",
+      "has_synced": true,
+      "path": "select/13_double_take_dhruv.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Double Take",
+      "artist": "Taska Black feat. Jess Benko",
+      "has_synced": true,
+      "path": "select/14_Double_Take_Taska_Black_feat._Jess_Benko.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Double Take",
+      "artist": "Taska Black",
+      "has_synced": true,
+      "path": "select/15_Double_Take_Taska_Black.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Stutter (feat. Mystikal) (Double Take Remix)",
+      "artist": "Joe; Mystikal",
+      "has_synced": true,
+      "path": "select/16_Stutter_(feat._Mystikal)_(Double_Take_Remix)_Joe;_Mystikal.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "double take",
+      "artist": "Dhruv",
+      "has_synced": true,
+      "path": "select/17_double_take_Dhruv.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "double take",
+      "artist": "dhruv",
+      "has_synced": false,
+      "path": "select/pl_01_double_take_dhruv.txt"
+    }
+  ]
+}
